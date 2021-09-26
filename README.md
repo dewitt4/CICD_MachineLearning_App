@@ -54,11 +54,11 @@ https://<app-name>.scm.azurewebsites.net/api/logs/docker
 Or stream them:
 az webapp log tail
 
-Helpful resources from Microsoft
+## Helpful resources from Microsoft
 These are all excellent official documentation examples from Microsoft that explain key components of Python-based Continuous Delivery on Azure:
-•	Azure Quickstart https://docs.microsoft.com/azure/app-service/containers/quickstart-python
-•	Use CI/CD to deploy a Python web app to Azure App Service on Linux https://docs.microsoft.com/azure/devops/pipelines/ecosystems/python-webapp
-•	Create a CI/CD pipeline for Python with Azure DevOps Starter https://docs.microsoft.com/azure/devops-project/azure-devops-project-python
-•	Continuous deployment to Azure App Service https://docs.microsoft.com/azure/app-service/deploy-continuous-deployment#option-1-use-app-service-kudu-build-server
-•	Flask on Azure App Services https://docs.microsoft.com/azure/app-service/containers/quickstart-python
-•	Azure Pipelines for Python https://docs.microsoft.com/azure/devops/pipelines/ecosystems/python
+1. Azure Quickstart https://docs.microsoft.com/azure/app-service/containers/quickstart-python
+2. Use CI/CD to deploy a Python web app to Azure App Service on Linux https://docs.microsoft.com/azure/devops/pipelines/ecosystems/python-webapp
+3. Create a CI/CD pipeline for Python with Azure DevOps Starter https://docs.microsoft.com/azure/devops-project/azure-devops-project-python
+4. Continuous deployment to Azure App Service https://docs.microsoft.com/azure/app-service/deploy-continuous-deployment#option-1-use-app-service-kudu-build-server
+5. Flask on Azure App Services https://docs.microsoft.com/azure/app-service/containers/quickstart-python
+6. Azure Pipelines for Python https://docs.microsoft.com/azure/devops/pipelines/ecosystems/python
