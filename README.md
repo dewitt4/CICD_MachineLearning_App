@@ -50,8 +50,10 @@ This shell script is responsible for sending some input data to your application
 In the prediction window, you should see the value of the prediction, and in your main window, where it indicates that your application is running, you should see some log statements print out. You’ll see that it prints out the input payload at multiple steps: when it is JSON and when it’s been converted to a DataFrame and about to be scaled.
 Logs
 You can inspect the logs from your running application here:
+
 https://<app-name>.scm.azurewebsites.net/api/logs/docker
-Or stream them:
+
+Or stream them using the azure command line:
 az webapp log tail
 
 ## Helpful resources from Microsoft
