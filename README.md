@@ -51,7 +51,7 @@ In the prediction window, you should see the value of the prediction, and in you
 Logs
 You can inspect the logs from your running application here:
 
-https://<app-name>.scm.azurewebsites.net/api/logs/docker
+https://your-app-name.scm.azurewebsites.net/api/logs/docker (replace your-app-name with the actual name of the app)
 
 Or stream them using the azure command line:
 az webapp log tail
