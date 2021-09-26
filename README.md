@@ -1,4 +1,4 @@
-# CI/CD Pipeline for Machine Learning Application
+# CI/CD Pipeline for Machine Learning Application hosted on Microsoft Azure
 CI/CD Pipeline for Demo Python Machine Learning App
 
 This Demo Repo is set up as a CI/CD Pipeline for a Microsoft Azure Cloud Environment - The App is a Python Based Machine Learning Prediction Model 
