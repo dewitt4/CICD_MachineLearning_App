@@ -64,3 +64,6 @@ These are all excellent official documentation examples from Microsoft that expl
 4. Continuous deployment to Azure App Service https://docs.microsoft.com/azure/app-service/deploy-continuous-deployment#option-1-use-app-service-kudu-build-server
 5. Flask on Azure App Services https://docs.microsoft.com/azure/app-service/containers/quickstart-python
 6. Azure Pipelines for Python https://docs.microsoft.com/azure/devops/pipelines/ecosystems/python
+
+## Trello Board
+I have created a public Trello Board for this project tracking. It can be viewed here at: https://trello.com/b/QSecLHuM/cicd-machine-learning-app
