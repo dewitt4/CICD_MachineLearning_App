@@ -14,8 +14,7 @@ Now that your environment is set up, you can create the scaffolding for your pro
 Create the Makefile
 Inside your GitHub repo, your next step will be to create a file named Makefile and copy the code below into it (remember this needs to use tab formatting). Remember that a Makefile is a handy way to create shortcuts to build, test, and deploy a project.
 
-<code>
-install:
+'install:
     pip install --upgrade pip &&\
         pip install -r requirements.txt
 
@@ -26,7 +25,7 @@ test:
 lint:
     pylint --disable=R,C hello.py
 
-all: install lint test</code>
+all: install lint test'
 
 Create requirements.txt
 Inside your GitHub repo, your next step will be to create a file named requirements.txt. It should include the following items below. Remember that a requirements.txt is a convenient way to list what packages a project needs. Another optional best practice would be to "pin" the exact version of the package you use.
