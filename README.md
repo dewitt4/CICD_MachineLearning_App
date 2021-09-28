@@ -15,18 +15,18 @@ Create the Makefile
 Inside your GitHub repo, your next step will be to create a file named Makefile and copy the code below into it (remember this needs to use tab formatting). Remember that a Makefile is a handy way to create shortcuts to build, test, and deploy a project.
 
 <code>
-<code>install:
-<code>    pip install --upgrade pip &&\
-<code>        pip install -r requirements.txt
-<code>
-<code>test:
-<code>    python -m pytest -vv test_hello.py
-<code>
-<code>
-<code>lint:
-<code>    pylint --disable=R,C hello.py
-<code>
-<code>all: install lint test
+install:
+    pip install --upgrade pip &&\
+        pip install -r requirements.txt
+
+test:
+   python -m pytest -vv test_hello.py
+
+
+lint:
+    pylint --disable=R,C hello.py
+
+all: install lint test</code>
 
 Create requirements.txt
 Inside your GitHub repo, your next step will be to create a file named requirements.txt. It should include the following items below. Remember that a requirements.txt is a convenient way to list what packages a project needs. Another optional best practice would be to "pin" the exact version of the package you use.
