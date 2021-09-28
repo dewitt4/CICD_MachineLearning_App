@@ -41,6 +41,8 @@ Replace the pythonapp.yml code with the following scaffolding code.
 3. Verify Remote Tests pass
 Push the changes to GitHub and verify that both lint and test steps pass in your project.
 
+![Image of Screenshot](https://github.com/dewitt4/CICD_MachineLearning_App/blob/5b9b8e60c38757c26ba263b3cb000f2de625b0b9/github_workflows_success.png)
+
 ## Continuous Delivery on Azure
 You are ready for the final step. It's time to set up Continuous Delivery using Azure technologies. This will involve setting up Azure Pipelines to deploy the Flask starter code to Azure App Services. If you get stuck on any of these steps, make sure to check out the references at the bottom of this page for ideas on how to get unblocked.
 
@@ -67,6 +69,3 @@ These are all excellent official documentation examples from Microsoft that expl
 
 ## Trello Board
 I have created a public Trello Board for this project tracking. It can be viewed here at: https://trello.com/b/QSecLHuM/cicd-machine-learning-app
-
-## Successful GitHub Action 
-![Image of Screenshot](https://github.com/dewitt4/CICD_MachineLearning_App/blob/5b9b8e60c38757c26ba263b3cb000f2de625b0b9/github_workflows_success.png)
