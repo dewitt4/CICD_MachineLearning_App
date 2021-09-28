@@ -67,3 +67,6 @@ These are all excellent official documentation examples from Microsoft that expl
 
 ## Trello Board
 I have created a public Trello Board for this project tracking. It can be viewed here at: https://trello.com/b/QSecLHuM/cicd-machine-learning-app
+
+## Successful GitHub Action 
+![Image of Screenshot](https://github.com/dewitt4/CICD_MachineLearning_App/blob/5b9b8e60c38757c26ba263b3cb000f2de625b0b9/github_workflows_success.png)
