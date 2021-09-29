@@ -70,6 +70,9 @@ You are ready for the final step. It's time to set up Continuous Delivery using 
 https://boston-housing.azurewebsites.net/  <-Actual Running Demo Site!
 
 ![Image of Screenshot](https://github.com/dewitt4/CICD_MachineLearning_App/blob/main/UpandRunning.png)
+![Image of Screenshot](https://github.com/dewitt4/CICD_MachineLearning_App/blob/main/DeploymentCenter.png)
+![Image of Screenshot](https://github.com/dewitt4/CICD_MachineLearning_App/blob/main/Authorize.png)
+![Image of Screenshot](https://github.com/dewitt4/CICD_MachineLearning_App/blob/main/DeploymentCenter2.png)
 
 ## Making predictions
 To make a prediction, you have to open a separate tab or terminal window. In this new window, navigate to the main project directory (some computers will do this automatically) and call ./make_prediction.sh if testing locally, or modify make_predict_azure_app.sh.
@@ -94,3 +97,7 @@ These are all excellent official documentation examples from Microsoft that expl
 
 ## Trello Board
 I have created a public Trello Board for this project tracking. It can be viewed here at: https://trello.com/b/QSecLHuM/cicd-machine-learning-app
+
+## Demo Video 
+
+
