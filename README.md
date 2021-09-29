@@ -59,7 +59,7 @@ Push the changes to GitHub and verify that both lint and test steps pass in your
 ## Continuous Delivery on Azure
 You are ready for the final step. It's time to set up Continuous Delivery using Azure technologies. This will involve setting up Azure Pipelines to deploy the Flask starter code to Azure App Services. If you get stuck on any of these steps, make sure to check out the references at the bottom of this page for ideas on how to get unblocked.
 
-https://udacity-project2.azurewebsites.net/
+https://boston-housing.azurewebsites.net/  <-Actual Running Demo Site!
 
 ## Making predictions
 To make a prediction, you have to open a separate tab or terminal window. In this new window, navigate to the main project directory (some computers will do this automatically) and call ./make_prediction.sh if testing locally, or modify make_predict_azure_app.sh.
