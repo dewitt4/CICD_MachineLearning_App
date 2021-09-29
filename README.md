@@ -56,6 +56,14 @@ Push the changes to GitHub and verify that both lint and test steps pass in your
 
 ![Image of Screenshot](https://github.com/dewitt4/CICD_MachineLearning_App/blob/5b9b8e60c38757c26ba263b3cb000f2de625b0b9/github_workflows_success.png)
 
+## Validating CI with 'Circle CI'
+
+In order to add a layer of build testing, intergrate repo with Circle CI https://circleci.com/
+
+![Image of Screenshot](https://github.com/dewitt4/CICD_MachineLearning_App/blob/main/buildandtest_screenshot.png)
+
+![Image of Screenshot](https://github.com/dewitt4/CICD_MachineLearning_App/blob/main/CircleCI2.png)
+
 ## Continuous Delivery on Azure
 You are ready for the final step. It's time to set up Continuous Delivery using Azure technologies. This will involve setting up Azure Pipelines to deploy the Flask starter code to Azure App Services. If you get stuck on any of these steps, make sure to check out the references at the bottom of this page for ideas on how to get unblocked.
 
