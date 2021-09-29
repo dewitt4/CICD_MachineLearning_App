@@ -69,6 +69,8 @@ You are ready for the final step. It's time to set up Continuous Delivery using 
 
 https://boston-housing.azurewebsites.net/  <-Actual Running Demo Site!
 
+![Image of Screenshot](https://github.com/dewitt4/CICD_MachineLearning_App/blob/main/UpandRunning.png)
+
 ## Making predictions
 To make a prediction, you have to open a separate tab or terminal window. In this new window, navigate to the main project directory (some computers will do this automatically) and call ./make_prediction.sh if testing locally, or modify make_predict_azure_app.sh.
 This shell script is responsible for sending some input data to your application via the appropriate port. Each numerical value in here represents some feature that is important for determining the price of a house in Boston. The source code is responsible for passing that data through a trained, machine learning model, and giving back a predicted value for the house price.
