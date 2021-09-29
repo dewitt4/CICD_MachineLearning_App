@@ -58,7 +58,7 @@ Push the changes to GitHub and verify that both lint and test steps pass in your
 
 ## Validating CI with 'Circle CI'
 
-In order to add a layer of build testing, intergrate repo with Circle CI https://circleci.com/
+In order to add another layer of build testing, intergrate repo with Circle CI https://circleci.com/
 
 ![Image of Screenshot](https://github.com/dewitt4/CICD_MachineLearning_App/blob/main/buildandtest_screenshot.png)
 
